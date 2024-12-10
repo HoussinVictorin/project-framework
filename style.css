@@ -4,8 +4,79 @@ div{
 body{
     color: white;
     background-color: rgb(82, 81, 81);
-
 }
+.sus{
+    color: #eb9081;
+    text-align: center;
+    height: 50px;
+}
+.jos{
+    background-color: rgb(87, 87, 87);
+}
+.col1:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col2:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col3:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col4:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col5:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col6:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col7:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col8:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col9:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col10:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col11:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col12:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col13:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col14:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col15:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col16:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col17:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col18:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col19:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col20:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col21:hover{
+    background-color: rgb(134, 129, 58);
+}
+
 .btn-outline-secondary {
     --bs-btn-color: #ffffff;
     --bs-btn-border-color: #660b0b;

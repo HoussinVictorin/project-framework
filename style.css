@@ -5,14 +5,24 @@ body{
     color: white;
     background-color: rgb(82, 81, 81);
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+
 .sus{
     color: #eb9081;
     text-align: center;
     height: 50px;
 }
+.galery{
+    display: flex;
+    justify-content: space-between;
+}
 .jos{
     background-color: rgb(87, 87, 87);
 }
+
 .col1:hover{
     background-color: rgb(134, 129, 58);
 }
@@ -32,61 +42,285 @@ body{
     background-color:rgb(134, 69, 57);
 }
 .col7:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(55, 94, 55);
 }
 .col8:hover{
-    background-color: rgb(134, 129, 58);
+    background-color: rgb(58, 97, 134);
 }
 .col9:hover{
-    background-color: rgb(134, 129, 58);
+    background-color: rgb(116, 58, 134);
 }
 .col10:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(134, 69, 57);
 }
 .col11:hover{
-    background-color: rgb(134, 129, 58);
+    background-color: rgb(58, 97, 134);
 }
 .col12:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(74, 125, 134);
 }
 .col13:hover{
-    background-color: rgb(134, 129, 58);
+    background-color: rgb(52, 139, 125);
 }
 .col14:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(74, 125, 134);
 }
 .col15:hover{
     background-color: rgb(134, 129, 58);
 }
 .col16:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(74, 125, 134);
 }
 .col17:hover{
-    background-color: rgb(134, 129, 58);
+    background-color: rgb(116, 58, 134);
 }
 .col18:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(55, 94, 55);
 }
 .col19:hover{
-    background-color: rgb(134, 129, 58);
+    background-color: rgb(116, 58, 134);
 }
 .col20:hover{
-    background-color: rgb(134, 129, 58);
+    background-color:rgb(134, 69, 57);
 }
 .col21:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col22:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col23:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col24:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col25:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col26:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col27:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col28:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col29:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col30:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col31:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col32:hover{
     background-color: rgb(134, 129, 58);
 }
+.col33:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col34:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col35:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col36:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col37:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col38:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col39:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col40:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col41:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col42:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col43:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col44:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col45:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col46:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col47:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col48:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col49:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col50:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col51:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col52:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col53:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col54:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col55:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col56:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col57:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col58:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col59:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col60:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col61:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col62:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col63:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col64:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col65:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col66:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col67:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col68:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col69:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col70:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col71:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col72:hover{
+    background-color: rgb(58, 97, 134);
+    }
+.col73:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col74:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col75:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col76:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col77:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col78:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col79:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col80:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col81:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col82:hover{
+    background-color:rgb(74, 125, 134);
+}
+.col83:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col84:hover{
+    background-color: rgb(52, 139, 125);
+    }
+.col85:hover{
+    background-color: rgb(52, 139, 125);
+}
+.col86:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col87:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col88:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col89:hover{
+    background-color: rgb(116, 58, 134);
+}
+.col90:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col91:hover{
+    background-color:rgb(55, 94, 55);
+}
+.col92:hover{
+    background-color: rgb(58, 97, 134);
+}
+.col93:hover{
+    background-color:rgb(134, 69, 57);
+}
+.col94:hover{
+    background-color: rgb(134, 129, 58);
+}
+.col95:hover{
+    background-color: rgb(134, 129, 58);
+}
+
+
 
 .btn-outline-secondary {
     --bs-btn-color: #ffffff;
     --bs-btn-border-color: #660b0b;
     --bs-btn-hover-color: #ffffff;
     --bs-btn-hover-bg: #861919;
-    --bs-btn-hover-border-color: #e4d8d8;
+    --bs-btn-hover-border-color: #b65312;
     --bs-btn-focus-shadow-rgb: 108, 117, 125;
     --bs-btn-active-color: #ffffff;
-    --bs-btn-active-bg: #bc880d;
-    --bs-btn-active-border-color: #ffffff;
+    --bs-btn-active-bg: #b65312;
+    --bs-btn-active-border-color: #b65312;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #ffffff;
     --bs-btn-disabled-bg: transparent;

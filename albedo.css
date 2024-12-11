@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(121, 111, 26);
+}
+img{
+    align-items: start;
+}
+.sus {
+    color: #eb9081;
+    text-align:start;
+    height: 50px;
+}
+.sus h2{
+    text-align: center;
+}
+.desc{
+    display: flex;
+    justify-content: space-between;
+}
+.galery{
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    text-align: start;
+}
